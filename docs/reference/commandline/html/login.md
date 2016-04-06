@@ -1,11 +1,11 @@
 <!--[metadata]
-+++
-title = "login"
+---
+title: "login"
 description = "The login command description and usage"
 keywords = ["registry, login, image"]
 [menu.main]
 parent = "smn_cli"
-+++
+...
 <![end-metadata]-->
 
 # login
