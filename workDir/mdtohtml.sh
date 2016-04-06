@@ -25,6 +25,9 @@ do
 	then
 		echo "File generat ${file%.md}.html no valid!"
 		echo "Codi error: $codiErr"
+	else
+	then
+		cp *.html /var/www/GitHub/kevinra15.github.io
 	fi
 done
 
